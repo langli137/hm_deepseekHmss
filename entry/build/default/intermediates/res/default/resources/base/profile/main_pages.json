@@ -1,0 +1,1 @@
+{"src": ["pages/Index", "pages/ServiceConfigListPage", "pages/ServiceConfigEditPage", "pages/TaskConfigListPage", "pages/TaskConfigEditPage", "pages/TaskExecutionPage", "pages/ResultDetailPage", "pages/MetricsComparePage", "pages/RunRecordListPage", "pages/AppSettingsPage"]}

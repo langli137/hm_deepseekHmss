@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "DeepSeek 模型评测工作台入口模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "DeepSeek 模型评测工作台"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DeepSeek 评测"
+    },
+    {
+      "name": "EntryStage_desc",
+      "value": "应用级服务容器宿主"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于访问用户配置的模型推理服务"
+    },
+    {
+      "name": "reason_network_info",
+      "value": "用于监测网络状态以支持断点续跑"
+    },
+    {
+      "name": "reason_background",
+      "value": "用于评测任务在后台持续执行"
+    },
+    {
+      "name": "app_home_title",
+      "value": "DeepSeek 评测工作台"
+    },
+    {
+      "name": "app_home_subtitle",
+      "value": "模型评测的发起者与结果呈现者"
+    },
+    {
+      "name": "entry_service_config",
+      "value": "模型服务配置"
+    },
+    {
+      "name": "entry_task_config",
+      "value": "评测任务配置"
+    },
+    {
+      "name": "entry_task_execution",
+      "value": "任务执行"
+    },
+    {
+      "name": "entry_result_detail",
+      "value": "结果与指标"
+    },
+    {
+      "name": "entry_run_record",
+      "value": "运行记录"
+    },
+    {
+      "name": "entry_app_settings",
+      "value": "应用设置"
+    },
+    {
+      "name": "route_unsupported_hint",
+      "value": "目标页面由后续业务任务实现"
+    }
+  ]
+}

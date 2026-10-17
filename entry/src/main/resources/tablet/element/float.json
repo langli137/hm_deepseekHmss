@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "font_size_title",
+      "value": "26fp"
+    },
+    {
+      "name": "font_size_body",
+      "value": "16fp"
+    },
+    {
+      "name": "space_page",
+      "value": "28vp"
+    },
+    {
+      "name": "space_gap",
+      "value": "16vp"
+    },
+    {
+      "name": "radius_card",
+      "value": "16vp"
+    },
+    {
+      "name": "button_height",
+      "value": "52vp"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "page_background",
+      "value": "#F5F6F8"
+    },
+    {
+      "name": "card_background",
+      "value": "#FFFFFF"
+    }
+  ]
+}
